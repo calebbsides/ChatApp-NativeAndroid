@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "399202200213",
+    "firebase_url": "https://chat-app-native-android.firebaseio.com",
+    "project_id": "chat-app-native-android",
+    "storage_bucket": "chat-app-native-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399202200213:android:b61438d035879d01",
+        "android_client_info": {
+          "package_name": "calebbsides.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399202200213-qq4pcs9d1qvi8gjt52afkmt1ab5v842o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyA2qwBeRzavA-ZdcAtaGCWib_DHbitAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
