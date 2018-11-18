@@ -3,11 +3,19 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent"
-              android:gravity="center">
+              android:gravity="center"
+              android:background="@color/colorPrimaryLight">
+
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Profile"
-            android:textSize="30sp"/>
+            android:text=""
+            android:textSize="30sp" android:id="@+id/user_name"/>
+    <Button
+            android:text="Sign Out"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/sign_out"
+            android:background="@color/colorPrimaryLight" style="@style/Widget.AppCompat.Button.Borderless"
+            android:textColor="@color/colorPrimary" android:textSize="14sp"/>
 
 </LinearLayout>
